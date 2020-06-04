@@ -10,3 +10,6 @@ Contoh project untuk menggunakan kamera di Android. Konfigurasi saat dibuat:
 
 ## Problem
 Ambil gambar terasa lambat
+
+## Disclaimer
+Ikon peluncur aplikasi dibuat oleh [Freepik.com](http://www.freepik.com/) dan diambil dari [Flaticon.com](https://www.flaticon.com/)
