@@ -7,6 +7,7 @@ Contoh project untuk menggunakan kamera di Android. Konfigurasi saat dibuat:
 
 ## Referensi
 [Mengambil foto](https://developer.android.com/training/camera/photobasics)
+[Diskusi ini, di stackoverflow.com](https://stackoverflow.com/questions/5991319/capture-image-from-camera-and-display-in-activity)
 
 ## Problem
 Ambil gambar terasa lambat
